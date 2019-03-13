@@ -1,3 +1,2 @@
 # mycitypicker
-city picker
-first project commit to github from android studio
+citypicker is first test project commit to github from android studio
